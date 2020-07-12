@@ -1467,6 +1467,7 @@ pre code {
     margin-left: 91.6666666667%;
   }
 }
+/* //ini untuk web */
 @media (min-width: 1200px) {
   .col-xl {
     flex-basis: 0;
@@ -10140,7 +10141,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/debbay.jpg");
+  background-image: url("../assets/img/begroun.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
