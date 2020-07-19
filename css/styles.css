@@ -10193,8 +10193,8 @@ header.masthead .masthead-heading {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   display: flex;
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 20%;
+  height: 20%;
   background: rgba(254, 209, 54, 0.9);
   align-items: center;
   justify-content: center;
@@ -10294,20 +10294,20 @@ header.masthead .masthead-heading {
 .timeline > li .timeline-panel {
   position: relative;
   float: right;
-  width: 100%;
-  padding: 0 20px 0 100px;
+  width: 50%;
+  padding: 0 10px 0 50px;
   text-align: left;
 }
 .timeline > li .timeline-panel:before {
   right: auto;
   left: -15px;
-  border-right-width: 15px;
+  border-right-width: 8px;
   border-left-width: 0;
 }
 .timeline > li .timeline-panel:after {
   right: auto;
   left: -14px;
-  border-right-width: 14px;
+  border-right-width: 7px;
   border-left-width: 0;
 }
 .timeline > li .timeline-image {
@@ -10320,7 +10320,7 @@ header.masthead .masthead-heading {
   text-align: center;
   color: white;
   border: 7px solid #e9ecef;
-  border-radius: 100%;
+  border-radius: 50%;
   background-color: #fed136;
 }
 .timeline > li .timeline-image h4 {
