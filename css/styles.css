@@ -9862,7 +9862,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-body {
-  color: #ffffff !important;
+  color: #0c8a99 !important;
 }
 
 .text-muted {
@@ -10140,7 +10140,7 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fffff;
+  color: #fff;
   background-image: url("../assets/img/begroun.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
